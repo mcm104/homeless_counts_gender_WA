@@ -18,7 +18,7 @@ This dataset contains the results of point-in-time homelessness counts in Washin
 | **describedBy** | https://github.com/mcm104/trans_homeless_counts_WA#data-dictionary |
 | **publisher** | Melissa Morgan |
 | **contactPoint** | Melissa Morgan <mailto:mcm104@uw.edu> |
-| | https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2015.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2016.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2017.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2018.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2019.pdf
+| **references** | https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2015.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2016.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2017.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2018.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2019.pdf
 | **keyword** | homeless, homelessness, washington, washington state, trans, transgender, trans homelessness |
 | **identifier** | trans_homeless_counts_WA |
 
