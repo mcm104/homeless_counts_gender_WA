@@ -7,7 +7,7 @@ This dataset contains the results of point-in-time homelessness counts in Washin
 # Data Dictionary
 
 | **Variable** | **Variable name** | **Variable type** | **Allowed values** | **Description** |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | **Gender** | gender | Text | male, female, transgender, GNC | The gender that the given segment of persons are identified as in a homeless count.Gender values based on those provided in source data. GNC stands for "gender non-conforming" and refers to individuals who do not identify as male, female, or transgender. |
 | **Year of count** | year | Date/time | 2015-2019 | The year in which the homeless count occurred. |
 | **Number of homeless persons living in an emergency shelter** |	num_emergency_shelter |	Number |	0-n	| The number of persons of the given gender who were living in an emergency shelter at the time of the homeless count. |
