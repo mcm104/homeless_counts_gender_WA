@@ -1,11 +1,14 @@
-# trans_homeless_counts_WA
-
+# Homeless Counts in Washington State by Gender, 2015-2019
 _This dataset was created as a final project for the University of Washington Information School's Winter 2021 course on data curation._
 
-This dataset contains the results of point-in-time homelessness counts in Washington state from 2015 to 2019. The counts are broken up by gender and housing status. The source data provides three gender categories: female, male, and transgender. In 2017, a fourth category was added for gender nonconforming persons. In this dataset you will find the counts for all four categories, as well as counts and percentages within each category for those in emergency shelters, those in transitional housing, and those who are unsheltered. The intended audience for this dataset is policymakers at the municipal, county, and state level in Washington state.
+## Abstract
+This dataset contains the results of point-in-time homelessness counts in Washington state from 2015 to 2019. The counts are broken up by gender and housing status. The source data provides three gender categories: female, male, and transgender. In 2017, a fourth category was added for gender nonconforming persons. In this dataset you will find the counts for all four categories, which are further broken down by current housing status: in an emergency shelter, in transitional housing, or unsheltered. The intended audience for this dataset is policymakers at the municipal, county, and state level in Washington state.
+
+## A note about this dataset
+The data from this dataset comes from point-in-time homeless counts conducted by [Continuum of Care (CoC) Homeless Assistance Programs](https://www.hudexchange.info/programs/coc/), who are required to submit the results of these counts to the U.S. Department of Housing and Urban Development (HUD) as part of their CoC membership. These reports did not contain counts broken down by gender until 2015. The gender categories used in this dataset are the same categories described in the original CoC data. The publisher of this dataset acknowledges that these categories are not the preferred terminology of the transgender community, and invites researchers using this data to be mindful and respective of trans-inclusive terminology in their research.
 
 # Metadata
-
+_Recorded using [Project Open Data Metadata Schema](https://resources.data.gov/resources/dcat-us/)_
 | **Attribute** | **Value** |
 | --- | --- |
 | **title** | title |
@@ -20,6 +23,7 @@ This dataset contains the results of point-in-time homelessness counts in Washin
 | **contactPoint** | Melissa Morgan <mailto:mcm104@uw.edu> |
 | **references** | https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2015.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2016.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2017.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2018.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2019.pdf
 | **keyword** | homeless, homelessness, washington, washington state, trans, transgender, trans homelessness |
+| **theme** | homelessness, gender |
 | **identifier** | trans_homeless_counts_WA |
 
 # Data Dictionary
