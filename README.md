@@ -32,7 +32,7 @@ _Recorded using [Project Open Data Metadata Schema](https://resources.data.gov/r
 
 | **Variable** | **Variable name** | **Variable type** | **Allowed values** | **Description** |
 | --- | --- | --- | --- | --- |
-| **Gender** | gender | Text | male, female, transgender, GNC | The gender of the given segment of person in a homeless count. GNC stands for "gender non-conforming" and refers to individuals who do not identify as male, female, or transgender. |
+| **Gender** | gender | Text | male, female, transgender, GNC | The gender of the given segment of persons in a homeless count. GNC stands for "gender non-conforming" and refers to individuals who do not identify as male, female, or transgender. |
 | **Year of count** | year | Date/time | 2015-2019 | The year in which the homeless count occurred. |
 | **Number of homeless persons living in an emergency shelter** |	num_emergency_shelter |	Number |	0-n	| The number of persons of the given gender who were living in an emergency shelter at the time of the homeless count. |
 | **Percentage of homeless persons living in an emergency shelter** |	per_emergency_shelter |	Percentage |	0%-100% |	The percentage of homeless persons of the given gender who are living in an emergency shelter at the time of the homeless count. |
