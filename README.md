@@ -13,8 +13,8 @@ The gender categories used in this dataset are the same categories described in 
 _Recorded using [Project Open Data Metadata Schema](https://resources.data.gov/resources/dcat-us/)_
 | **Attribute** | **Value** |
 | --- | --- |
-| **title** | title |
-| **description** | description |
+| **title** | Homeless Counts in Washington State by Gender, 2015-2019 |
+| **description** | This dataset contains the results of point-in-time homelessness counts in Washington state from 2015 to 2019. The counts are broken up by gender and housing status. |
 | **temporal** | 2015-2019 |
 | **accessLevel** | public |
 | **issued** | 2021-03-08 |
