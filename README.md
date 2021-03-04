@@ -10,7 +10,9 @@ The gender categories used in this dataset have been revised from the original C
 
 ## File naming conventions used
 File names should use the project abbreviation HCG_WA (homeless counts by gender in Washington) and the file version number. For example...
-`HCG_WA_1.0.1.csv`
+```
+HCG_WA_1.0.1.csv
+```
 The original data as retrieved from HUB Exchange is in a ZIP file labeled with version number 1.0.0.
 
 Normalized data is stored as a CSV file.
@@ -19,11 +21,13 @@ Normalized data is stored as a CSV file.
 The following steps have been carried out on the source data in order to create this dataset:
 1. Homeless counts broken down by gender manually recorded from multiple CoC reports and placed into a single dataset.
 2. Allowed values for the variable "gender" renamed as follows:
-- Female --> cisgender_female
-- Male --> cisgender_male
-- Do not identify as Female, Male, or Transgender* --> GNC
-- Gender Non-Conforming (i.e. not exclusively male or female) --> GNC
+  - Female --> cisgender_female
+  - Male --> cisgender_male
+  - Do not identify as Female, Male, or Transgender* --> GNC
+  - Gender Non-Conforming (i.e. not exclusively male or female) --> GNC
+
 _*This category was only used once in 2017 before being renamed to Gender Non-Conforming_
+
 3. Rows ordered to keep gender categories together, and chronologically by year within gender categories.
 4. Rows added for gender categories that do not have data for every year in the scope of the dataset (namely, rows have been added for 2015 and 2016 for the GNC category).
 5. Columns added to record the percentages within each year and gender category that are in each category of housing status.
