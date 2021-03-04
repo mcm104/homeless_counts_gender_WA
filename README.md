@@ -8,6 +8,13 @@ The data from this dataset comes from point-in-time homeless counts conducted by
 
 The gender categories used in this dataset have been revised from the original CoC data. Female, male, and transgender are not mutually exclusive terms; a transgender woman, for example, is both transgender and female. However, these terms are used in the source data as though they were mutually exclusive. The opposite of transgender is cisgender. Therefore, the categories 'female' and 'male' have been renamed to 'cisgender female' and 'cisgender male,' in order to be more precise, to make the labels more in line with the intent of the source data, and to be more respectful of the transgender community. The publisher of this dataset invites researchers using this data to be mindful and respective of trans-inclusive terminology in their research.
 
+## File naming conventions used
+File names should use the project abbreviation HCG_WA (homeless counts by gender in Washington) and the file version number. For example...
+`HCG_WA_1.0.1.csv`
+The original data as retrieved from HUB Exchange is in a ZIP file labeled with version number 1.0.0.
+
+Normalized data is stored as a CSV file.
+
 # Metadata
 _Recorded using [Project Open Data Metadata Schema](https://resources.data.gov/resources/dcat-us/)_
 | **Attribute** | **Value** |
@@ -33,10 +40,10 @@ _Recorded using [Project Open Data Metadata Schema](https://resources.data.gov/r
 | --- | --- | --- | --- | --- |
 | **Gender** | gender | Text | cisgender_male, cisgender_female, transgender, GNC | The gender of the given segment of persons in a homeless count. GNC stands for "gender non-conforming" and refers to individuals who do not identify as cisgender male, cisgender female, or transgender. |
 | **Year of count** | year | Date/time | 2015-2019 | The year in which the homeless count occurred. |
-| **Number of homeless persons living in an emergency shelter** |	num_emergency_shelter |	Number |	0-n	| The number of persons of the given gender who were living in an emergency shelter at the time of the homeless count. |
-| **Percentage of homeless persons living in an emergency shelter** |	per_emergency_shelter |	Percentage |	0%-100% |	The percentage of homeless persons of the given gender who are living in an emergency shelter at the time of the homeless count. |
-| **Number of homeless persons living in transitional housing** |	num_transitional housing |	Number |	0-n	| The number of persons of the given gender who were living in transitional housing at the time of the homeless count. |
-| **Percentage of homeless persons living in transitional housing** |	per_transitional housing |	Percentage |	0%-100% |	The percentage of homeless persons of the given gender who are living in transitional housing at the time of the homeless count. |
-| **Number of homeless persons who are unsheltered** |	num_unsheltered	| Number |	0-n |	The number of persons of the given gender who were unsheltered at the time of the homeless count. |
-| **Percentage of homeless persons who are unsheltered** |	per_unsheltered	| Percentage |	0%-100% |	The percentage of homeless persons of the given gender who are living in an emergency shelter at the time of the homeless count. |
-| **Total number of homeless persons** |	num_total |	Number |	0-n |	The total number of persons of the given gender who were counted during the homeless count. |
+| **Number of homeless persons living in an emergency shelter** |	number_emergency_shelter |	Number |	0-n	| The number of persons of the given gender who were living in an emergency shelter at the time of the homeless count. |
+| **Percentage of homeless persons living in an emergency shelter** |	percent_emergency_shelter |	Percentage |	0%-100% |	The percentage of homeless persons of the given gender who are living in an emergency shelter at the time of the homeless count. |
+| **Number of homeless persons living in transitional housing** |	number_transitional housing |	Number |	0-n	| The number of persons of the given gender who were living in transitional housing at the time of the homeless count. |
+| **Percentage of homeless persons living in transitional housing** |	percent_transitional housing |	Percentage |	0%-100% |	The percentage of homeless persons of the given gender who are living in transitional housing at the time of the homeless count. |
+| **Number of homeless persons who are unsheltered** |	number_unsheltered	| Number |	0-n |	The number of persons of the given gender who were unsheltered at the time of the homeless count. |
+| **Percentage of homeless persons who are unsheltered** |	percent_unsheltered	| Percentage |	0%-100% |	The percentage of homeless persons of the given gender who are living in an emergency shelter at the time of the homeless count. |
+| **Total number of homeless persons** |	number_total |	Number |	0-n |	The total number of persons of the given gender who were counted during the homeless count. |
