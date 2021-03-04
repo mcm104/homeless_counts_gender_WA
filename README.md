@@ -19,14 +19,14 @@ _Recorded using [Project Open Data Metadata Schema](https://resources.data.gov/r
 | **accessLevel** | public |
 | **issued** | 2021-03-08 |
 | **language** | en-us |
-| **landingPage** | https://github.com/mcm104/trans_homeless_counts_WA |
-| **describedBy** | https://github.com/mcm104/trans_homeless_counts_WA#data-dictionary |
+| **landingPage** | https://github.com/mcm104/homeless_counts_gender_WA |
+| **describedBy** | https://github.com/mcm104/homeless_counts_gender_WA#data-dictionary |
 | **publisher** | Melissa Morgan |
 | **contactPoint** | Melissa Morgan <mailto:mcm104@uw.edu> |
 | **references** | https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2015.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2016.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2017.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2018.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2019.pdf
 | **keyword** | homeless, homelessness, washington, washington state, trans, transgender, trans homelessness |
 | **theme** | homelessness, gender |
-| **identifier** | trans_homeless_counts_WA |
+| **identifier** | homeless_counts_gender_WA |
 
 # Data Dictionary
 
