@@ -32,7 +32,7 @@ The following steps have been carried out on the source data in order to create 
 
 _*This category was only used once in 2017 before being renamed to Gender Non-Conforming_
 
-# Metadata
+## Metadata
 _Recorded using [Project Open Data Metadata Schema](https://resources.data.gov/resources/dcat-us/)_
 | **Attribute** | **Value** |
 | --- | --- |
@@ -51,7 +51,7 @@ _Recorded using [Project Open Data Metadata Schema](https://resources.data.gov/r
 | **theme** | homelessness, gender |
 | **identifier** | homeless_counts_gender_WA |
 
-# Data Dictionary
+## Data Dictionary
 
 | **Variable** | **Variable name** | **Variable type** | **Allowed values** | **Description** |
 | --- | --- | --- | --- | --- |
