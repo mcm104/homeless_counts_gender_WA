@@ -51,7 +51,7 @@ _Recorded using [Project Open Data Metadata Schema](https://resources.data.gov/r
 | **theme** | homelessness, gender |
 | **identifier** | homeless_counts_gender_WA |
 
-## Data Dictionary
+## Data dictionary
 
 | **Variable** | **Variable name** | **Variable type** | **Allowed values** | **Description** |
 | --- | --- | --- | --- | --- |
