@@ -27,7 +27,7 @@ The following steps have been carried out on the source data in order to create 
    - Gender Non-Conforming (i.e. not exclusively male or female) --> **GNC**
 3. Rows ordered to keep gender categories together, and chronologically by year within gender categories.
 4. Rows added for gender categories that do not have data for every year in the scope of the dataset (namely, rows have been added for 2015 and 2016 for the GNC category).
-5. Columns added to record the percentages within each year and gender category that are in each category of housing status.
+5. Columns added to record what percent of a gender category was counted in which housing status in a given year.
 6. Blank values filled in as "NA".
 
 _*This category was only used once in 2017 before being renamed to Gender Non-Conforming_
